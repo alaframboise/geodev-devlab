@@ -61,7 +61,7 @@ These are sets of labs that you can choose from depending on what type of applic
  - [Display point, line, and polygon graphics](https://developers.arcgis.com/labs/javascript/display-point-line-and-polygon-graphics/)
  - [Buffer and intersect geometry](https://developers.arcgis.com/labs/javascript/buffer-and-intersect-geometry/)
 
-#### Work with authentication
+#### Security and authentication
 
 - [Set up authenticated services](https://developers.arcgis.com/labs/arcgisonline/set-up-authenticated-services/)
 - [Access services with OAuth 2.0](https://developers.arcgis.com/labs/javascript/access-services-with-oauth-2/)

@@ -1,4 +1,4 @@
-Welcome to the ArcGIS DevLabs!
+Welcome to the GeoDev DevLab!
 
 ## Steps
 

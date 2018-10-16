@@ -5,10 +5,11 @@ Welcome to the ArcGIS DevLabs!
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
 3. Start labs:
-   - Option 1: Follow the Data - Design - Develop labs
-   - Option 2: Follow your own labs. Pick a product (e.g. ArcGIS Online, JavaScript, iOS...) and go!
+   - Option 1: Follow the Data - Design - Develop labs.
+   - Option 2: Pick a lab set. 
+   - Option 3: Pick a your own set! Select a product and go!
    
-## Data - Design - Develop
+## Data, Design, Develop
 
 #### 1. Data
  - [Import data](https://developers.arcgis.com/labs/arcgisonline/import-data/)
@@ -20,9 +21,28 @@ Welcome to the ArcGIS DevLabs!
 #### 3. Develop
  - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
 
-## Challenge
+## Lab Sets
 
-#### Style your own vector basemap!
+#### Find your geolocation
+
+ - [Display and track your location](https://developers.arcgis.com/labs/javascript/display-and-track-your-location/)
+
+#### Explore geocoding
+
+ - [Search for an address](https://developers.arcgis.com/labs/?product=JavaScript&topic=Geocoding) 
+ - [Find places](https://developers.arcgis.com/labs/?product=JavaScript&topic=Geocoding)
+
+#### Get driving directions
+
+ - [Navigate routes](https://developers.arcgis.com/labs/?product=JavaScript&topic=Routing)
+ - [Get a route and directions](https://developers.arcgis.com/labs/?product=JavaScript&topic=Routing)
+
+### Work with graphics and geometry
+
+ - [Display point, line, and polygon graphics](https://developers.arcgis.com/labs/javascript/display-point-line-and-polygon-graphics/)
+ - [Buffer and intersect geometry](https://developers.arcgis.com/labs/javascript/buffer-and-intersect-geometry/)
+
+#### Style your own vector basemap
 
 - [Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
 - [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)

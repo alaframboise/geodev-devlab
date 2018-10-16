@@ -5,13 +5,13 @@ Welcome to the ArcGIS DevLabs!
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
 3. Start labs:
-   - Option 1: Follow the Data, Design, Develop labs.
+   - Option 1: Follow the Explore the ArcGIS Platform Data, Design, Develop labs.
    - Option 2: Pick a lab set. 
    - Option 3: Pic your own set.
    
-## Data, Design, Develop
+## 1. Explore the ArcGIS Platform
 
-This pattern will show you how to take advantage of the ArcGIS Platform tools, data and map storage capabilities to build applications fast and effectivley. If you are new to ArcGIS, this is a good place to start.
+This pattern will show you how to take advantage of the ArcGIS Platform tools, data and map storage capabilities to build applications fast and effectivley. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
 
 #### 1. Data
  - [Import data](https://developers.arcgis.com/labs/arcgisonline/import-data/)
@@ -23,18 +23,14 @@ This pattern will show you how to take advantage of the ArcGIS Platform tools, d
 #### 3. Develop
  - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
 
-## Lab Sets
+## 2. Lab Sets
 
-### Mapping Tools and Scripting Labs
+These are labs sets that you can choose from depending on what type of application you would like to build. They can be completed in any order.
 
-These labs are all about getting your data, layers and maps ready for your applications. This includes importing data, styling and sharing layers and creating maps. The more work you do here, the less you need to do in your application.
+#### Prepare your data, layers and maps using tools and scripting
 
  - [ArcGIS Online](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=any)
  - [Python](https://developers.arcgis.com/labs/?product=Python&topic=any)
-
-### Programming Labs
-
-These labs are all about solving specific programming task. Be sure to start with the [Create a starter app](https://developers.arcgis.com/labs/javascript/create-a-starter-app/) lab as this will be used for all of the remaining labs.
 
 #### Explore maps and layers
  - [Select a basemap](https://developers.arcgis.com/labs/javascript/select-a-basemap/)

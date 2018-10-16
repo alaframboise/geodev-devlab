@@ -25,7 +25,7 @@ These labs will show you how to take advantage of the ArcGIS Platform tools, dat
 
 ## 2. Lab Sets
 
-These are labs sets that you can choose from depending on what type of application you would like to build. They can be completed in any order.
+These are sets of labs that you can choose from depending on what type of application you would like to build. They can be completed in any order.
 
 #### Prepare your data, layers and maps using tools and scripting
 
@@ -68,4 +68,4 @@ These are labs sets that you can choose from depending on what type of applicati
 
 ## 3. All labs
 
-Visit all of the [ArcGIS DevLabs](https://developers.arcgis.com/labs/) and select the ones you would like to try. They can be completed in any order.
+Visit all of the [ArcGIS DevLabs](https://developers.arcgis.com/labs/) and select the ones you would like to try.

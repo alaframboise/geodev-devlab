@@ -25,7 +25,7 @@ This pattern will show you how to take advantage of the ArcGIS Platform tools, d
 
 ## Lab Sets
 
-### Tools and Scripting Labs
+### Mapping Tools and Scripting Labs
 
 These labs are all about getting your data, layers and maps ready for your applications. This includes importing data, styling and sharing layers and creating maps. The more work you do here, the less you need to do in your application.
 
@@ -34,9 +34,7 @@ These labs are all about getting your data, layers and maps ready for your appli
 
 ### Programming Labs
 
-These labs are all about solving specific programming task. Be sure to start with the Create a starter app lab as this will be used for all of the remaining labs.
-
-#### [Create a starter app](https://developers.arcgis.com/labs/javascript/create-a-starter-app/)
+These labs are all about solving specific programming task. Be sure to start with the [Create a starter app](https://developers.arcgis.com/labs/javascript/create-a-starter-app/) lab as this will be used for all of the remaining labs.
 
 #### Explore maps and layers
  - [Select a basemap](https://developers.arcgis.com/labs/javascript/select-a-basemap/)

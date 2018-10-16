@@ -1,17 +1,17 @@
 Welcome to the ArcGIS DevLabs!
 
-## Get Started
+## Steps
 
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
 3. Start labs:
-   - Option 1: Follow the Explore the ArcGIS Platform Data, Design, Develop labs.
+   - Option 1: Follow the ArcGIS Platform Labs (Data, Design, Develop).
    - Option 2: Pick a lab set. 
    - Option 3: Pic your own set.
    
-## 1. Explore the ArcGIS Platform
+## 1. ArcGIS Platform Labs
 
-This pattern will show you how to take advantage of the ArcGIS Platform tools, data and map storage capabilities to build applications fast and effectivley. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
+These labs will show you how to take advantage of the ArcGIS Platform tools, data and map storage capabilities to build applications fast and effectivley. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
 
 #### 1. Data
  - [Import data](https://developers.arcgis.com/labs/arcgisonline/import-data/)

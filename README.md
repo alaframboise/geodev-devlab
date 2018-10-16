@@ -37,6 +37,11 @@ These are labs sets that you can choose from depending on what type of applicati
  - [Add layers to a map](https://developers.arcgis.com/labs/javascript/add-layers-to-a-map/)/[Add layers to a 3D scene](https://developers.arcgis.com/labs/javascript/add-layers-to-a-3d-scene/)
  - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)/[Display a 3D scene](https://developers.arcgis.com/labs/javascript/display-a-web-scene/)
 
+#### Style a own vector basemap
+
+- [Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
+- [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
+
 #### Find your geolocation
 
  - [Display and track your location](https://developers.arcgis.com/labs/javascript/display-and-track-your-location/)
@@ -55,11 +60,6 @@ These are labs sets that you can choose from depending on what type of applicati
 
  - [Display point, line, and polygon graphics](https://developers.arcgis.com/labs/javascript/display-point-line-and-polygon-graphics/)
  - [Buffer and intersect geometry](https://developers.arcgis.com/labs/javascript/buffer-and-intersect-geometry/)
-
-#### Style your own vector basemap
-
-- [Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
-- [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
 
 #### Work with authentication
 

@@ -5,9 +5,9 @@ Welcome to the ArcGIS DevLabs!
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
 3. Start labs:
-   - Option 1: Follow the ArcGIS Platform Labs (Data, Design, Develop).
-   - Option 2: Pick a lab set. 
-   - Option 3: Pic your own set.
+   - Option 1: Follow the ArcGIS Platform labs - for new developers.
+   - Option 2: Pick a lab set - explore functionality. 
+   - Option 3: Pic your own set - solve a specific problem.
    
 ## 1. ArcGIS Platform Labs
 

@@ -5,7 +5,7 @@ Welcome to the ArcGIS DevLabs!
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
 3. Start labs:
-   - Option 1: Follow the Data - Design - Develop labs.
+   - Option 1: Follow the Data, Design, Develop labs.
    - Option 2: Pick a lab set. 
    - Option 3: Pick a your own set! Select a product and go!
    
@@ -37,7 +37,7 @@ Welcome to the ArcGIS DevLabs!
  - [Navigate routes](https://developers.arcgis.com/labs/?product=JavaScript&topic=Routing)
  - [Get a route and directions](https://developers.arcgis.com/labs/?product=JavaScript&topic=Routing)
 
-### Work with graphics and geometry
+#### Work with graphics and geometry
 
  - [Display point, line, and polygon graphics](https://developers.arcgis.com/labs/javascript/display-point-line-and-polygon-graphics/)
  - [Buffer and intersect geometry](https://developers.arcgis.com/labs/javascript/buffer-and-intersect-geometry/)

@@ -65,3 +65,7 @@ These are labs sets that you can choose from depending on what type of applicati
 
 - [Set up authenticated services](https://developers.arcgis.com/labs/arcgisonline/set-up-authenticated-services/)
 - [Access services with OAuth 2.0](https://developers.arcgis.com/labs/javascript/access-services-with-oauth-2/)
+
+## 3. Explore all labs
+
+Visit all of the [ArcGIS DevLabs](https://developers.arcgis.com/labs/) and select the ones you would like to try.

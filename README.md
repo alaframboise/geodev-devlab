@@ -5,13 +5,13 @@ Welcome to the GeoDev DevLab!
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
 3. Labs
-   * Part I: Create a mapping app with the ArcGIS Platform. 
-   * Part II: Extend your app with ArcGIS functionality.
+   * Part I: Create a mapping app.
+   * Part II: Explore and extend your app.
    * Part III: Challenge - Build a responsive web app with Calcite Maps (Bootstrap).
 
 NOTE: JavaScript developers will need a [codepen.io](https://codepen.io) account.
 
-## Part I: Create a mapping app with the ArcGIS Plaform
+## Part I: Create a mapping app
 
 These labs will show you how to use the ArcGIS Platform tools, data and map storage capabilities to build applications quickly. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
 
@@ -25,7 +25,7 @@ These labs will show you how to use the ArcGIS Platform tools, data and map stor
   3. [Develop](https://developers.arcgis.com/labs/?product=any&topic=any)
      - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
 
-## Part II: Extend your app with ArcGIS functionality
+## Part II: Explore and extend your app
 
 These are sets of labs that you can explore to learn how to add additional functionality to your mapping app. For example, learn how to add geolocation, search and driving directions to your app. These labs can be completed in any order.
 

@@ -6,9 +6,9 @@ Welcome to the GeoDev DevLab!
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
 3. Sign up for a CodePen.io account (JavaScript developers only)
 4. Labs Part I: Create a mapping app with the ArcGIS Platform
-5. Labs Part II: Explore and extend apps with ArcGIS functionality
+5. Labs Part II: Extend apps with ArcGIS functionality
 
-## 1. Part I: Create a mapping app with the ArcGIS Plaform
+## Part I: Create a mapping app with the ArcGIS Plaform
 
 These labs will show you how to take advantage of the ArcGIS Platform tools, data and map storage capabilities to build applications quickly. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
 
@@ -22,9 +22,9 @@ These labs will show you how to take advantage of the ArcGIS Platform tools, dat
 #### 3. Develop
  - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
 
-## 2. Part II: Explore and extend apps with ArcGIS funcionality
+## Part II: Extend your app with ArcGIS functionality
 
-These are sets of labs that you can choose from depending on what type of application you would like to build and what functionality you would like to explore. The sets can be completed in any order.
+These are sets of labs that you can explore to learn how to add additional functionality to your mapping app. For example, learn how to add geolocation, search and driving directions to your app. These labs can be completed in any order.
 
 #### Prepare data, layers and maps using tools and scripting
 

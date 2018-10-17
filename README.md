@@ -4,8 +4,9 @@ Welcome to the GeoDev DevLab!
 
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
-3. Labs Part I: Create a mapping app with the ArcGIS Platform
-4. Labs Part II: Extend apps with ArcGIS functionality
+3. Labs Part I: Create a mapping app with the ArcGIS Platform.
+4. Labs Part II: Extend your app with ArcGIS functionality.
+5. Labs Part III: Challenge - Build a responsive web app with Calcite-Maps (Bootstrap).
 
 NOTE: JavaScript developers will need a [codepen.io](https://codepen.io) account.
 
@@ -68,3 +69,8 @@ These are sets of labs that you can explore to learn how to add additional funct
 
 - [Set up authenticated services](https://developers.arcgis.com/labs/arcgisonline/set-up-authenticated-services/)
 - [Access services with OAuth 2.0](https://developers.arcgis.com/labs/javascript/access-services-with-oauth-2/)
+
+## Part III: Challenge: Build a responsive web app with Calcite-Maps (Bootstrap)
+
+There are many options for building responsive apps, but if you want to try to build an app with a web framework (bootstrap) then give this a try. The easiest way is still use a web map. Visit [https://github.com/Esri/calcite-maps](https://github.com/Esri/calcite-maps) for instructions.
+

@@ -5,14 +5,12 @@ Welcome to the GeoDev DevLab!
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
 3. Sign up for a CodePen.io account (JavaScript developers only)
-4. Start labs:
-   - Option 1: Follow the ArcGIS Platform labs - for new developers.
-   - Option 2: Pick a lab set - explore functionality. 
-   - Option 3: Pic your own set - solve a specific problem.
-   
-## 1. ArcGIS Platform Labs
+4. Labs Part I: Create a mapping app with the ArcGIS Platform
+5. Labs Part II: Explore and extend apps with ArcGIS functionality
 
-These labs will show you how to take advantage of the ArcGIS Platform tools, data and map storage capabilities to build applications fast and effectivley. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
+## 1. Part I: Create a mapping app with the ArcGIS Plaform
+
+These labs will show you how to take advantage of the ArcGIS Platform tools, data and map storage capabilities to build applications quickly. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
 
 #### 1. Data
  - [Import data](https://developers.arcgis.com/labs/arcgisonline/import-data/)
@@ -24,21 +22,21 @@ These labs will show you how to take advantage of the ArcGIS Platform tools, dat
 #### 3. Develop
  - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
 
-## 2. Lab Sets
+## 2. Part II: Explore and extend apps with ArcGIS funcionality
 
 These are sets of labs that you can choose from depending on what type of application you would like to build and what functionality you would like to explore. The sets can be completed in any order.
 
-#### Prepare your data, layers and maps using tools and scripting
+#### Prepare data, layers and maps using tools and scripting
 
  - [ArcGIS Online](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=any)
  - [Python](https://developers.arcgis.com/labs/?product=Python&topic=any)
 
-#### Explore maps and layers
+#### Work with maps and layers
  - [Select a basemap](https://developers.arcgis.com/labs/javascript/select-a-basemap/)
  - [Add layers to a map](https://developers.arcgis.com/labs/javascript/add-layers-to-a-map/)/[Add layers to a 3D scene](https://developers.arcgis.com/labs/javascript/add-layers-to-a-3d-scene/)
  - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)/[Display a 3D scene](https://developers.arcgis.com/labs/javascript/display-a-web-scene/)
 
-#### Style a own vector basemap
+#### Style your own vector basemap
 
 - [Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
 - [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
@@ -66,7 +64,3 @@ These are sets of labs that you can choose from depending on what type of applic
 
 - [Set up authenticated services](https://developers.arcgis.com/labs/arcgisonline/set-up-authenticated-services/)
 - [Access services with OAuth 2.0](https://developers.arcgis.com/labs/javascript/access-services-with-oauth-2/)
-
-## 3. All labs
-
-Visit all of the [ArcGIS DevLabs](https://developers.arcgis.com/labs/) and select the ones you would like to try.

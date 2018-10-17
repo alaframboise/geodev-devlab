@@ -11,7 +11,7 @@ NOTE: JavaScript developers will need a [codepen.io](https://codepen.io) account
 
 ## Part I: Create a mapping app with the ArcGIS Plaform
 
-These labs will show you how to take advantage of the ArcGIS Platform tools, data and map storage capabilities to build applications quickly. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
+These labs will show you how to use the ArcGIS Platform tools, data and map storage capabilities to build applications quickly. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
 
   1. Data
      - *[Import data](https://developers.arcgis.com/labs/arcgisonline/import-data/)

@@ -1,3 +1,7 @@
+## ArcGIS GeoDev DevLab
+
+Welcome to the devlab! Follow these steps to start building a real mapping application with the ArcGIS Platform.
+
 ## Before you get started
 
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).

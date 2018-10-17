@@ -1,6 +1,4 @@
-Welcome to the GeoDev DevLab!
-
-## Set-up
+## Before you get started
 
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.

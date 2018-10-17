@@ -4,25 +4,26 @@ Welcome to the GeoDev DevLab!
 
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
-3. Sign up for a CodePen.io account (JavaScript developers only)
-4. Labs Part I: Create a mapping app with the ArcGIS Platform
-5. Labs Part II: Extend apps with ArcGIS functionality
+3. Labs Part I: Create a mapping app with the ArcGIS Platform
+4. Labs Part II: Extend apps with ArcGIS functionality
+
+NOTE: JavaScript developers will need a [codepen.io](https://codepen.io) account.
 
 ## Part I: Create a mapping app with the ArcGIS Plaform
 
 These labs will show you how to take advantage of the ArcGIS Platform tools, data and map storage capabilities to build applications quickly. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
 
   1. Data
-     - [Import data](https://developers.arcgis.com/labs/arcgisonline/import-data/)
+     - *[Import data](https://developers.arcgis.com/labs/arcgisonline/import-data/)
      - [See all labs](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=any)
 
   2. Design
-     - [Style feature layers](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers/)
-     - [Configure popup-ups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/)
+     - *[Style feature layers](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers/)
+     - *[Configure popup-ups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/)
      - [See all labs](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=Styling-and-Visualization)
 
   3. Develop
-     - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
+     - *[Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
      - [See all labs](https://developers.arcgis.com/labs/?product=any&topic=any)
 
 ## Part II: Extend your app with ArcGIS functionality

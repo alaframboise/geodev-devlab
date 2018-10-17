@@ -70,7 +70,7 @@ These are sets of labs that you can explore to learn how to add additional funct
 
 ![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377127/santa_monica_app_2.png)
 
-## Challenge: Build a responsive web app with Calcite Maps (Bootstrap)
+## Challenge: Build a responsive app with Calcite Maps (Bootstrap)
 
 There are many options for building responsive apps, but if you want to try to build an app with a web framework that uses Bootstrap, then give this a try. The easiest way is still use a web map. Visit [https://github.com/Esri/calcite-maps](https://github.com/Esri/calcite-maps) for instructions.
 

@@ -64,7 +64,7 @@ These are sets of labs that you can explore to learn how to add additional funct
 - [Set up authenticated services](https://developers.arcgis.com/labs/arcgisonline/set-up-authenticated-services/)
 - [Access services with OAuth 2.0](https://developers.arcgis.com/labs/javascript/access-services-with-oauth-2/)
 
-## Part III: Challenge - Build a responsive web app with Calcite Maps (Bootstrap)
+## Challenge - Build a responsive web app with Calcite Maps (Bootstrap)
 
 There are many options for building responsive apps, but if you want to try to build an app with a web framework that uses Bootstrap, then give this a try. The easiest way is still use a web map. Visit [https://github.com/Esri/calcite-maps](https://github.com/Esri/calcite-maps) for instructions.
 

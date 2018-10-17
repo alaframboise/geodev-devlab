@@ -1,6 +1,6 @@
 ## Welcome to the ArcGIS GeoDev DevLab
 
-Follow these steps to start building a real-world mapping application with the ArcGIS Platform. To view the accompanying slide deck, visit [this link](https://slides.com/alaframboise/geodev-devlab/).
+Follow these steps to start building a real-world mapping application with the ArcGIS Platform. To view the accompanying slide deck, visit [this link](https://slides.com/alaframboise/geodev-devlab/). To view all of the latest labs, please visit [developers.arcgis.com/labs](https://developers.arcgis.com/labs).
 
 ## Before you get started
 

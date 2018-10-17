@@ -5,6 +5,8 @@ Welcome to the GeoDev DevLab!
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
 
+![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377003/santa_monica_app_1.png)
+
 ## Part I: Create an ArcGIS mapping app
 
 These labs will show you how to use the ArcGIS Platform tools, data and map storage capabilities to build applications quickly. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
@@ -20,6 +22,8 @@ These labs will show you how to use the ArcGIS Platform tools, data and map stor
      - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
 
 NOTE: JavaScript developers will need a [codepen.io](https://codepen.io) account.
+
+![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377127/santa_monica_app_2.png)
 
 ## Part II: Extend your app
 
@@ -63,6 +67,8 @@ These are sets of labs that you can explore to learn how to add additional funct
 
 - [Set up authenticated services](https://developers.arcgis.com/labs/arcgisonline/set-up-authenticated-services/)
 - [Access services with OAuth 2.0](https://developers.arcgis.com/labs/javascript/access-services-with-oauth-2/)
+
+![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377184/santa_monica_app_3.png)
 
 ## Challenge: Build a responsive web app with Calcite Maps (Bootstrap)
 

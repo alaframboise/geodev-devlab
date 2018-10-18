@@ -9,7 +9,7 @@ Follow the sections below to start building a real-world mapping application wit
 Before you start you need to sign up for a *free* developer account if you don't already have one. This will give you the ability to store maps, layers and data in the cloud and use the ArcGIS Premium Services.
 
 1. Sign up for a [developer account](https://developers.arcgis.com/sign-in/).
-2. Sign in and redeem your voucher code for 1000 credits.
+2. Sign in and redeem your voucher code for 1000 credits.  TUSCONDEVLABOCT2018
 
 ## Part I: Create a mapping app
 

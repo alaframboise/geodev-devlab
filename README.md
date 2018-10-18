@@ -36,6 +36,10 @@ NOTE: JavaScript developers will need a [codepen.io](https://codepen.io) account
 
 These are sets of labs that you can explore to learn how to add additional functionality to your mapping app. For example, learn how to add geolocation, search and driving directions to your app. These labs can be completed in any order.
 
+  1. Change the [Basemap](https://developers.arcgis.com/labs/javascript/select-a-basemap/)
+  2. Add a [Search](https://developers.arcgis.com/labs/javascript/search-for-an-address/)
+  3. Add an [Expand](https://developers.arcgis.com/javascript/) widget for legend (no lab, use API documentation!)
+  
 #### Prepare data, layers and maps using tools and scripting
 
  - [ArcGIS Online](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=any)

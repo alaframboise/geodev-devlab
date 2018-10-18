@@ -41,7 +41,7 @@ These are sets of labs that you can explore to learn how to add additional funct
 ### Labs
   1. [Toggle the basemap](https://developers.arcgis.com/labs/javascript/select-a-basemap/)
   2. [Add search capabilities](https://developers.arcgis.com/labs/javascript/search-for-an-address/)
-  3. [Expand the legend](https://developers.arcgis.com/javascript/) (no lab, use API documentation!)
+  3. [Expand the legend](https://developers.arcgis.com/javascript/) (no lab, use JS API documentation)
   
 ### More ways to extend your application
   

@@ -26,6 +26,8 @@ NOTE: JavaScript developers will need a [codepen.io](https://codepen.io) account
 
 ![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377003/santa_monica_app_1.png)
 
+[Solution](codepen.io/alaframboise/pen/rqJbdQ)
+
 ## Part II: Extend your app
 
 These are sets of labs that you can explore to learn how to add additional functionality to your mapping app. For example, learn how to add geolocation, search and driving directions to your app. These labs can be completed in any order.
@@ -71,8 +73,12 @@ These are sets of labs that you can explore to learn how to add additional funct
 
 ![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377127/santa_monica_app_2.png)
 
+[Solution](codepen.io/alaframboise/pen/BqYXXw)
+
 ## Challenge: Build a responsive app with Calcite Maps (Bootstrap)
 
-There are many options for building responsive apps, but if you want to try to build an app with a web framework that uses Bootstrap, then give this a try. The easiest way is still use a web map. Visit [https://github.com/Esri/calcite-maps](https://github.com/Esri/calcite-maps) for instructions.
+There are many options for building responsive apps, but if you want to try to build an app with a web framework that uses Bootstrap, then give this a try. The easiest way is still use a web map. Visit [https://github.com/Esri/calcite-maps](https://github.com/Esri/calcite-maps) for sample code and more details.
 
 ![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377184/santa_monica_app_3.png)
+
+[Solution](codepen.io/alaframboise/pen/qJoBBX)

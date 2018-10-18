@@ -15,18 +15,20 @@ Before you start you need to sign up for a *free* developer account if you don't
 
 These labs will show you how to use the ArcGIS Platform tools, data and map storage capabilities to build applications quickly. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
 
-  1. [Data](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=any)
+### Labs
+
+  1. Data
      - [Import data](https://developers.arcgis.com/labs/arcgisonline/import-data/)
 
-  2. [Design](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=Styling-and-Visualization)
+  2. Design
      - [Create a web map](https://developers.arcgis.com/labs/arcgisonline/create-a-web-map/)
      - [Style feature layers](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers/)
      - [Configure popup-ups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/)
 
-  3. [Develop](https://developers.arcgis.com/labs/?product=any&topic=any)
+  3. Develop (JavaScript developers will need a [codepen.io](https://codepen.io) account)
      - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
 
-NOTE: JavaScript developers will need a [codepen.io](https://codepen.io) account.
+If you are finished early, try more [Data](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=any), [Design](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=Styling-and-Visualization), [Develop](https://developers.arcgis.com/labs/?product=any&topic=any) labs.
 
 ![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377003/santa_monica_app_1.png)
 
@@ -36,7 +38,7 @@ NOTE: JavaScript developers will need a [codepen.io](https://codepen.io) account
 
 These are sets of labs that you can explore to learn how to add additional functionality to your mapping app. For example, learn how to add geolocation, search and driving directions to your app. These labs can be completed in any order.
 
-### Try these labs
+### Labs
   1. [Toggle the basemap](https://developers.arcgis.com/labs/javascript/select-a-basemap/)
   2. [Add search capabilities](https://developers.arcgis.com/labs/javascript/search-for-an-address/)
   3. [Expand the legend](https://developers.arcgis.com/javascript/) (no lab, use API documentation!)

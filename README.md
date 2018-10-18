@@ -15,6 +15,7 @@ These labs will show you how to use the ArcGIS Platform tools, data and map stor
      - [Import data](https://developers.arcgis.com/labs/arcgisonline/import-data/)
 
   2. [Design](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=Styling-and-Visualization)
+     - [Create a web map](https://developers.arcgis.com/labs/arcgisonline/create-a-web-map/)
      - [Style feature layers](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers/)
      - [Configure popup-ups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/)
 

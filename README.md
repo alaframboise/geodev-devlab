@@ -26,7 +26,7 @@ NOTE: JavaScript developers will need a [codepen.io](https://codepen.io) account
 
 ![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377003/santa_monica_app_1.png)
 
-[Solution](codepen.io/alaframboise/pen/rqJbdQ)
+[Solution](https://codepen.io/alaframboise/pen/rqJbdQ)
 
 ## Part II: Extend your app
 
@@ -73,7 +73,7 @@ These are sets of labs that you can explore to learn how to add additional funct
 
 ![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377127/santa_monica_app_2.png)
 
-[Solution](codepen.io/alaframboise/pen/BqYXXw)
+[Solution](https://codepen.io/alaframboise/pen/BqYXXw)
 
 ## Challenge: Build a responsive app with Calcite Maps (Bootstrap)
 
@@ -81,4 +81,4 @@ There are many options for building responsive apps, but if you want to try to b
 
 ![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377184/santa_monica_app_3.png)
 
-[Solution](codepen.io/alaframboise/pen/qJoBBX)
+[Solution](https://codepen.io/alaframboise/pen/qJoBBX)

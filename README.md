@@ -24,6 +24,7 @@ These labs will show you how to use the ArcGIS Platform tools, data and map stor
      - [Create a web map](https://developers.arcgis.com/labs/arcgisonline/create-a-web-map/)
      - [Style feature layers](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers/)
      - [Configure popup-ups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/)
+     - Bonus: [Style with Smartmapping](https://developers.arcgis.com/labs/arcgisonline/style-with-smart-mapping/), [Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/), [Style layers in 3D](https://developers.arcgis.com/labs/arcgisonline/style-web-scene-layers/)
 
   3. Develop (JavaScript developers will need a [codepen.io](https://codepen.io) account)
      - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)

@@ -41,7 +41,7 @@ These are sets of labs that you can explore to learn how to add additional funct
   2. [Add search capabilities](https://developers.arcgis.com/labs/javascript/search-for-an-address/)
   3. [Expand the legend](https://developers.arcgis.com/javascript/) (no lab, use API documentation!)
   
-### Other labs you can use to extend your application
+### More lab sets you can use to extend your application
   
 Prepare data, layers and maps using tools and scripting
   - [ArcGIS Online](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=any)

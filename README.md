@@ -2,7 +2,9 @@
 
 Follow these steps to start building a real-world mapping application with the ArcGIS Platform. To view the accompanying slide deck, visit [this link](https://slides.com/alaframboise/geodev-devlab/). To view all of the latest labs, please visit [developers.arcgis.com/labs](https://developers.arcgis.com/labs).
 
-## Before you get started
+## Getting started
+
+Before you start the labs you will need to sign up for a free developer account if you don't already have one. This will give you the ability to store maps, layers and data in the cloud and use the ArcGIS Premium Services.
 
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.

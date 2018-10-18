@@ -41,46 +41,39 @@ These are sets of labs that you can explore to learn how to add additional funct
   2. [Add search capabilities](https://developers.arcgis.com/labs/javascript/search-for-an-address/)
   3. [Expand the legend](https://developers.arcgis.com/javascript/) (no lab, use API documentation!)
   
-### Other related lab sets
+### Other labs you can use to extend your application
   
-#### Prepare data, layers and maps using tools and scripting
+Prepare data, layers and maps using tools and scripting
+  - [ArcGIS Online](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=any)
+  - [Python](https://developers.arcgis.com/labs/?product=Python&topic=any)
 
- - [ArcGIS Online](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=any)
- - [Python](https://developers.arcgis.com/labs/?product=Python&topic=any)
+Work with maps and layers
+  - [Select a basemap](https://developers.arcgis.com/labs/javascript/select-a-basemap/)
+  - [Add layers to a map](https://developers.arcgis.com/labs/javascript/add-layers-to-a-map/)/[Add layers to a 3D scene](https://developers.arcgis.com/labs/javascript/add-layers-to-a-3d-scene/)
+  - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)/[Display a 3D scene](https://developers.arcgis.com/labs/javascript/display-a-web-scene/)
 
-#### Work with maps and layers
- - [Select a basemap](https://developers.arcgis.com/labs/javascript/select-a-basemap/)
- - [Add layers to a map](https://developers.arcgis.com/labs/javascript/add-layers-to-a-map/)/[Add layers to a 3D scene](https://developers.arcgis.com/labs/javascript/add-layers-to-a-3d-scene/)
- - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)/[Display a 3D scene](https://developers.arcgis.com/labs/javascript/display-a-web-scene/)
+Style your own vector basemap
+  - [Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
+  - [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
 
-#### Style your own vector basemap
+Find your geolocation
+  - [Display and track your location](https://developers.arcgis.com/labs/javascript/display-and-track-your-location/)
 
-- [Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
-- [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
+Explore geocoding
+  - [Search for an address](https://developers.arcgis.com/labs/?product=JavaScript&topic=Geocoding) 
+  - [Find places](https://developers.arcgis.com/labs/?product=JavaScript&topic=Geocoding)
 
-#### Find your geolocation
+Get driving directions
+  - [Navigate routes](https://developers.arcgis.com/labs/?product=JavaScript&topic=Routing)
+  - [Get a route and directions](https://developers.arcgis.com/labs/?product=JavaScript&topic=Routing)
 
- - [Display and track your location](https://developers.arcgis.com/labs/javascript/display-and-track-your-location/)
+Work with graphics and geometry
+  - [Display point, line, and polygon graphics](https://developers.arcgis.com/labs/javascript/display-point-line-and-polygon-graphics/)
+  - [Buffer and intersect geometry](https://developers.arcgis.com/labs/javascript/buffer-and-intersect-geometry/)
 
-#### Explore geocoding
-
- - [Search for an address](https://developers.arcgis.com/labs/?product=JavaScript&topic=Geocoding) 
- - [Find places](https://developers.arcgis.com/labs/?product=JavaScript&topic=Geocoding)
-
-#### Get driving directions
-
- - [Navigate routes](https://developers.arcgis.com/labs/?product=JavaScript&topic=Routing)
- - [Get a route and directions](https://developers.arcgis.com/labs/?product=JavaScript&topic=Routing)
-
-#### Work with graphics and geometry
-
- - [Display point, line, and polygon graphics](https://developers.arcgis.com/labs/javascript/display-point-line-and-polygon-graphics/)
- - [Buffer and intersect geometry](https://developers.arcgis.com/labs/javascript/buffer-and-intersect-geometry/)
-
-#### Security and authentication
-
-- [Set up authenticated services](https://developers.arcgis.com/labs/arcgisonline/set-up-authenticated-services/)
-- [Access services with OAuth 2.0](https://developers.arcgis.com/labs/javascript/access-services-with-oauth-2/)
+Security and authentication
+ - [Set up authenticated services](https://developers.arcgis.com/labs/arcgisonline/set-up-authenticated-services/)
+ - [Access services with OAuth 2.0](https://developers.arcgis.com/labs/javascript/access-services-with-oauth-2/)
 
 ![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377127/santa_monica_app_2.png)
 

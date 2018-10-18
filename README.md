@@ -1,7 +1,7 @@
 ## Welcome to the ArcGIS GeoDev DevLab
 
 Follow the sections below to start building a real-world mapping application with the ArcGIS Platform. Here are the accompanying resources:
-  * [Slides](https://slides.com/alaframboise/geodev-devlab/)
+  * [DevLab Slides](https://slides.com/alaframboise/geodev-devlab/)
   * [ArcGIS DevLabs](https://developers.arcgis.com/labs)
 
 ## Getting started

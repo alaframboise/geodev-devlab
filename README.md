@@ -27,7 +27,8 @@ These labs will show you how to use the ArcGIS Platform tools, data and map stor
 
   3. Develop (JavaScript developers will need a [codepen.io](https://codepen.io) account)
      - [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
-
+     - Sharing - http://www.arcgis.com/sharing/rest/content/items/1da6ca59b2b24676911f35601f4684e5/data
+     
 If you are finished early, try more [Data](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=any), [Design](https://developers.arcgis.com/labs/?product=ArcGIS-Online&topic=Styling-and-Visualization), [Develop](https://developers.arcgis.com/labs/?product=any&topic=any) labs.
 
 ![](https://s3.amazonaws.com/media-p.slid.es/uploads/252828/images/5377003/santa_monica_app_1.png)

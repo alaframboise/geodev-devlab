@@ -7,7 +7,7 @@ Follow these steps to start building a real-world mapping application with the A
 1. Sign up for a [developer subscription](https://developers.arcgis.com/sign-in/).
 2. Sign in and redeem your voucher code for 1000 credits so you can use ArcGIS Premium services.
 
-## Part I: Create an mapping app
+## Part I: Create a mapping app
 
 These labs will show you how to use the ArcGIS Platform tools, data and map storage capabilities to build applications quickly. If you are new to ArcGIS, this is a good place to start. Be sure to follow them in the order below.
 
